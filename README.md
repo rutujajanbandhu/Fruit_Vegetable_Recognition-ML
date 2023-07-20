@@ -1,2 +1,2 @@
 # Fruit_Vegetable_Recognition-ML
-The Fruit and Vegetable Recognition project used advanced machine learning techniques like CNN, SVM, Random Forest, and k-NN to create an app that identifies food items from photos with high accuracy.
+The Fruit and Vegetable Recognition project developed an application using advanced machine learning techniques like CNN, SVM, Random Forest, and k-NN to identify food items from photos accurately.
