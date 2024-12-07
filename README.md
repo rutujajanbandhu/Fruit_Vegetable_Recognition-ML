@@ -45,7 +45,7 @@ SVM: 83% accuracy
 Decision Tree:96.7% accuracy
 Random Forest: 96.1% accuracy
 - CNN Model:
-CNN: 89.2% accuracy (best-performing model)
+CNN: 98.2% accuracy (best-performing model)
 Analysis:
 The CNN outperformed all traditional ML models by a significant margin, demonstrating the effectiveness of deep learning for image classification tasks.
 Random Forest performed the best among traditional models but still lagged behind the CNN.
